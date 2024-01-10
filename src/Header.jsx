@@ -10,8 +10,8 @@ const Bgcolor = ({color, colorChange}) => {
 
 const Header = ({colorChange}) => {
   return (
-    <div className="container card shadow">
-        <div className="card-body d-flex justify-content-between flex-wrap">
+    <div className="container card mt-5 shadow">
+        <div className="card-body border-0 d-flex justify-content-between flex-wrap">
             <h4 className="card-title">
                 Note Hack
             </h4>

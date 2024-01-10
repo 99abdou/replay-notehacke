@@ -7,6 +7,12 @@
     height: 100%;
 }
 
+.btn-bg{
+    width: 22.5px;
+    height: 22.5px;
+}
+
+
 body{
     background-color: blueviolet;
 }
