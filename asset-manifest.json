@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/replay-notehacke/static/css/main.98ac0879.css",
+    "main.js": "/replay-notehacke/static/js/main.d12930aa.js",
+    "index.html": "/replay-notehacke/index.html",
+    "main.98ac0879.css.map": "/replay-notehacke/static/css/main.98ac0879.css.map",
+    "main.d12930aa.js.map": "/replay-notehacke/static/js/main.d12930aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ac0879.css",
+    "static/js/main.d12930aa.js"
+  ]
+}
