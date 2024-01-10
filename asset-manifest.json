@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/replay-notehacke/static/css/main.98ac0879.css",
-    "main.js": "/replay-notehacke/static/js/main.d12930aa.js",
+    "main.css": "/replay-notehacke/static/css/main.36150dc3.css",
+    "main.js": "/replay-notehacke/static/js/main.4025c2ad.js",
     "index.html": "/replay-notehacke/index.html",
-    "main.98ac0879.css.map": "/replay-notehacke/static/css/main.98ac0879.css.map",
-    "main.d12930aa.js.map": "/replay-notehacke/static/js/main.d12930aa.js.map"
+    "main.36150dc3.css.map": "/replay-notehacke/static/css/main.36150dc3.css.map",
+    "main.4025c2ad.js.map": "/replay-notehacke/static/js/main.4025c2ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.98ac0879.css",
-    "static/js/main.d12930aa.js"
+    "static/css/main.36150dc3.css",
+    "static/js/main.4025c2ad.js"
   ]
 }
