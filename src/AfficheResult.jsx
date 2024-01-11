@@ -5,13 +5,13 @@ import { FaPen } from "react-icons/fa";
 const AfficheResult = ({listNote, handleDelete}) => {
   return   <div className="row">
     {listNote && listNote.map((notemap) => (
-        <div key={notemap.id} className="col-sm-4 mb-3 mb-sm-0">
+        <div key={notemap.id} className="col-sm-3 mb-3 mb-sm-0  mx-auto">
         <div className="card">
           <div className="card-body d-flex justify-content-between">
             <h5 className="card-title">{notemap.note}</h5>
             <div className="gap-3">
-              <AiFillDelete onClick={() => handleDelete(notemap.id)} />
               <FaPen />
+              <AiFillDelete onClick={() => handleDelete(notemap.id)} />
             </div>
             
           </div>
